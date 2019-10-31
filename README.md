@@ -2,7 +2,7 @@ If github in unable to render a Jupyter notebook, copy the link of the notebook 
 
 ## Index for the Notebook Series on K-Means Clustering
 
-There are 6 notebooks.
+There are 6 notebooks adapted from Aurélien Géron "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems  (2nd Edition, 2019)" 
 
 1. Clustering-1-K-Means -- Introduction to K-Means and Its Implementation using a synthetic dataset
 2. Clustering-2-K-Means -- How to choose optimal number of clusters?
